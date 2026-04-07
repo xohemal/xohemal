@@ -6,9 +6,6 @@
 
 <p>AI & ML student · aspiring red teamer · Bengaluru, India</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemalsingh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemal.singh05@gmail.com)
-
 </div>
 
 ---
@@ -20,7 +17,7 @@ currently building  → OWASP Top 10 vulnerability scanner
 currently learning  → pentesting & GitHub Advanced Security
 looking to collab   → CTFs & open source security tools
 fun fact            → built a vuln scanner before any formal course
-` `` 
+```
 
 ---
 
@@ -65,9 +62,11 @@ fun fact            → built a vuln scanner before any formal course
 
 ---
 
+## connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemalsingh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemal.singh05@gmail.com)
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c9a8c0&height=80&section=footer" width="100%"/>
 </div>
-```
-
-Only thing to note - the capsule-render footer wave is also an external service. If that also breaks, just delete those last 3 lines. Everything else uses shields.io and github-readme-stats which are the two most reliable services and almost never go down.
